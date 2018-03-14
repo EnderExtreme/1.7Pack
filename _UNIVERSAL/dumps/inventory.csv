@@ -1,0 +1,6 @@
+Slot,Display Name,Amount,Damage,Max Damage,Item ID,Unlocalized Name,Item Class,NBT
+0,World Domination with OpenBlocks,1,0,0,OpenBlocks:infoBook,item.openblocks.info_book,openblocks.common.item.ItemInfoBook,
+1,OpenComputers Manual,1,98,0,OpenComputers:item,item.oc.Manual,li.cil.oc.common.init.Items$$anon$1,
+2,Materials and You: Volume 1,1,0,0,TConstruct:manualBook,item.tconstruct.manual.beginner,tconstruct.tools.items.Manual,
+3,Mystical Purple Flower,2,10,0,Botania:flower,tile.flower10,vazkii.botania.common.item.block.ItemBlockWithMetadataAndName,
+13,Dead Wood,1,2,0,BiomesOPlenty:logs3,tile.logs3.deadWood,biomesoplenty.common.itemblocks.ItemBlockLog,

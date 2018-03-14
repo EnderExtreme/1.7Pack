@@ -1,0 +1,139 @@
+ID,Unlocalised name,Class
+0,potion.luck,makeo.gadomancy.common.potions.PotionMiningLuck
+1,potion.moveSpeed,net.minecraft.potion.Potion
+2,potion.moveSlowdown,net.minecraft.potion.Potion
+3,potion.digSpeed,net.minecraft.potion.Potion
+4,potion.digSlowDown,net.minecraft.potion.Potion
+5,potion.damageBoost,net.minecraft.potion.PotionAttackDamage
+6,potion.heal,net.minecraft.potion.PotionHealth
+7,potion.harm,net.minecraft.potion.PotionHealth
+8,potion.jump,net.minecraft.potion.Potion
+9,potion.confusion,net.minecraft.potion.Potion
+10,potion.regeneration,net.minecraft.potion.Potion
+11,potion.resistance,net.minecraft.potion.Potion
+12,potion.fireResistance,net.minecraft.potion.Potion
+13,potion.waterBreathing,net.minecraft.potion.Potion
+14,potion.invisibility,net.minecraft.potion.Potion
+15,potion.blindness,net.minecraft.potion.Potion
+16,potion.nightVision,net.minecraft.potion.Potion
+17,potion.hunger,net.minecraft.potion.Potion
+18,potion.weakness,net.minecraft.potion.PotionAttackDamage
+19,potion.poison,net.minecraft.potion.Potion
+20,potion.wither,net.minecraft.potion.Potion
+21,potion.healthBoost,net.minecraft.potion.PotionHealthBoost
+22,potion.absorption,net.minecraft.potion.PotionAbsoption
+23,potion.saturation,net.minecraft.potion.PotionHealth
+24,ic2.potion.radiation,ic2.core.IC2Potion
+25,Slowfall,net.aetherteam.aether.potions.AetherPotion
+26,High Steps,net.aetherteam.aether.potions.AetherPotion
+27,Feather Fall,am2.buffs.ArsMagicaPotion
+28,Haste,am2.buffs.ArsMagicaPotion
+29,True Sight,am2.buffs.ArsMagicaPotion
+30,Regeneration,am2.buffs.ArsMagicaPotion
+31,Magic Shield,am2.buffs.ArsMagicaPotion
+32,Charmed,am2.buffs.ArsMagicaPotion
+33,Frost Slow,am2.buffs.ArsMagicaPotion
+34,Chrono Anchor,am2.buffs.ArsMagicaPotion
+35,Mana Regen,am2.buffs.ArsMagicaPotion
+36,Entangled,am2.buffs.ArsMagicaPotion
+37,Watery Grave,am2.buffs.ArsMagicaPotion
+38,Spell Reflect,am2.buffs.ArsMagicaPotion
+39,Silence,am2.buffs.ArsMagicaPotion
+40,potion.spore_infection,com.wildmobsmod.potions.PotionSporeInfection
+41,potion.creeper_halt,com.wildmobsmod.potions.PotionCreeperHalt
+42,Leap,am2.buffs.ArsMagicaPotion
+43,Mana Boost,am2.buffs.ArsMagicaPotion
+44,Astral Distortion,am2.buffs.ArsMagicaPotion
+45,Mana Shield,am2.buffs.ArsMagicaPotion
+46,Fury,am2.buffs.ArsMagicaPotion
+47,Scramble Synapses,am2.buffs.ArsMagicaPotion
+48,Illuminated,am2.buffs.ArsMagicaPotion
+49,Greater Mana Restoration,am2.buffs.ManaPotion
+50,Epic Mana Restoration,am2.buffs.ManaPotion
+51,Legendary Mana Restoration,am2.buffs.ManaPotion
+52,Gravity Well,am2.buffs.ArsMagicaPotion
+53,Levitation,am2.buffs.ArsMagicaPotion
+54,Clarity,am2.buffs.ArsMagicaPotion
+55,Shrunken,am2.buffs.ArsMagicaPotion
+56,Burnout Redux,am2.buffs.ArsMagicaPotion
+57,potion.paralysis,biomesoplenty.common.potions.PotionParalysis
+58,potion.possession,biomesoplenty.common.potions.PotionPossession
+59,witchery:potion.paralysed,com.emoniph.witchery.brewing.potions.PotionParalysis
+60,witchery:potion.wrappedinvine,com.emoniph.witchery.brewing.potions.PotionWrappedInVine
+61,witchery:potion.spiked,com.emoniph.witchery.brewing.potions.PotionSpiked
+62,witchery:potion.sprouting,com.emoniph.witchery.brewing.potions.PotionSprouting
+63,witchery:potion.grotesque,com.emoniph.witchery.brewing.potions.PotionGrotesque
+64,witchery:potion.love,com.emoniph.witchery.brewing.potions.PotionLove
+65,witchery:potion.allergysun,com.emoniph.witchery.brewing.potions.PotionSunAllergy
+66,witchery:potion.chilled,com.emoniph.witchery.brewing.potions.PotionChilled
+67,witchery:potion.snowtrail,com.emoniph.witchery.brewing.potions.PotionSnowTrail
+68,witchery:potion.floating,com.emoniph.witchery.brewing.potions.PotionFloating
+69,witchery:potion.hellishaura,com.emoniph.witchery.brewing.potions.PotionHellishAura
+70,potion.blood_seal,fox.spiteful.forbidden.potions.PotionBloodSeal
+71,witchery:potion.brewingexpertise,com.emoniph.witchery.brewing.potions.PotionBrewingExpertise
+72,witchery:potion.doublejump,com.emoniph.witchery.brewing.potions.PotionBase
+73,witchery:potion.featherfall,com.emoniph.witchery.brewing.potions.PotionFeatherFall
+74,witchery:potion.allergydark,com.emoniph.witchery.brewing.potions.PotionDarknessAllergy
+75,witchery:potion.reincarnate,com.emoniph.witchery.brewing.potions.PotionReincarnate
+76,witchery:potion.insane,com.emoniph.witchery.brewing.potions.PotionInsanity
+77,witchery:potion.keepinventory,com.emoniph.witchery.brewing.potions.PotionKeepInventory
+78,witchery:potion.sinking,com.emoniph.witchery.brewing.potions.PotionSinking
+79,witchery:potion.overheating,com.emoniph.witchery.brewing.potions.PotionOverheating
+80,witchery:potion.wakingnightmare,com.emoniph.witchery.brewing.potions.PotionWakingNightmare
+81,witchery:potion.queasy,com.emoniph.witchery.brewing.potions.PotionQueasy
+82,witchery:potion.swimming,com.emoniph.witchery.brewing.potions.PotionSwimming
+83,witchery:potion.resizing,com.emoniph.witchery.brewing.potions.PotionResizing
+84,witchery:potion.colorful,com.emoniph.witchery.brewing.potions.PotionColorful
+85,witchery:potion.enderinhibition,com.emoniph.witchery.brewing.potions.PotionEnderInhibition
+86,Fire Imbued,thaumic.tinkerer.common.potion.DummyPotions
+87,Water Imbued,thaumic.tinkerer.common.potion.DummyPotions
+88,witchery:potion.enslaved,com.emoniph.witchery.brewing.potions.PotionEnslaved
+89,Earth Imbued,thaumic.tinkerer.common.potion.DummyPotions
+90,Air Imbued,thaumic.tinkerer.common.potion.DummyPotions
+91,botania.potion.soulCross,vazkii.botania.common.brew.potion.PotionSoulCross
+92,botania.potion.featherFeet,vazkii.botania.common.brew.potion.PotionFeatherfeet
+93,botania.potion.emptiness,vazkii.botania.common.brew.potion.PotionEmptiness
+94,botania.potion.bloodthirst,vazkii.botania.common.brew.potion.PotionBloodthirst
+95,botania.potion.allure,vazkii.botania.common.brew.potion.PotionAllure
+96,botania.potion.clear,vazkii.botania.common.brew.potion.PotionClear
+97,immersiveengineering.potion.conductive,blusunrize.immersiveengineering.common.util.IEPotions.IEPotion
+98,immersiveengineering.potion.flammable,blusunrize.immersiveengineering.common.util.IEPotions.IEPotion
+99,immersiveengineering.potion.slippery,blusunrize.immersiveengineering.common.util.IEPotions.IEPotion
+100,Drowning,WayofTime.alchemicalWizardry.common.potion.PotionDrowning
+101,Boost,WayofTime.alchemicalWizardry.common.potion.PotionBoost
+102,Whirlwind,WayofTime.alchemicalWizardry.common.potion.PotionProjectileProtect
+103,Inhibit,WayofTime.alchemicalWizardry.common.potion.PotionInhibit
+104,Flight,WayofTime.alchemicalWizardry.common.potion.PotionFlight
+105,Reciprocation,WayofTime.alchemicalWizardry.common.potion.PotionReciprocation
+106,Flame Cloak,WayofTime.alchemicalWizardry.common.potion.PotionFlameCloak
+107,Ice Cloak,WayofTime.alchemicalWizardry.common.potion.PotionIceCloak
+108,Heavy Heart,WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart
+109,Fire Fuse,WayofTime.alchemicalWizardry.common.potion.PotionFireFuse
+110,Planar Binding,WayofTime.alchemicalWizardry.common.potion.PotionPlanarBinding
+111,Soul Fray,WayofTime.alchemicalWizardry.common.potion.PotionSoulFray
+112,Soul Harden,WayofTime.alchemicalWizardry.common.potion.PotionSoulHarden
+113,Deafness,WayofTime.alchemicalWizardry.common.potion.PotionDeaf
+114,Feather Fall,WayofTime.alchemicalWizardry.common.potion.PotionFeatherFall
+115,Demon Cloaking,WayofTime.alchemicalWizardry.common.potion.PotionDemonCloak
+116,Amphibian,WayofTime.alchemicalWizardry.common.potion.PotionAmphibian
+117,immersiveengineering.potion.sticky,blusunrize.immersiveengineering.common.util.IEPotions.IEPotion
+118,potion.minePrevention,com.chocolate.chocolateQuest.misc.PotionCQ
+119,grc.potion.tipsy,growthcraft.cellar.common.potion.PotionCellar
+120,potion.fluxtaint,thaumcraft.api.potions.PotionFluxTaint
+121,potion.visexhaust,thaumcraft.api.potions.PotionVisExhaust
+122,potion.infvisexhaust,thaumcraft.common.lib.potions.PotionInfectiousVisExhaust
+123,potion.unhunger,thaumcraft.common.lib.potions.PotionUnnaturalHunger
+124,potion.warpward,thaumcraft.common.lib.potions.PotionWarpWard
+125,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
+126,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
+127,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
+128,potion.buffGolem,makeo.gadomancy.common.potions.PotionBuffGolem
+129,potion.achromatic,makeo.gadomancy.common.potions.PotionAchromatic
+130,potion.eldritch,makeo.gadomancy.common.potions.PotionEldritch
+131,potion.visdiscount,makeo.gadomancy.common.potions.PotionVisAffinity
+132,imbue.poison,lumien.randomthings.Potions.PotionImbue
+133,imbue.experience,lumien.randomthings.Potions.PotionImbue
+134,imbue.fire,lumien.randomthings.Potions.PotionImbue
+135,imbue.wither,lumien.randomthings.Potions.PotionImbue
+136,imbue.weakness,lumien.randomthings.Potions.PotionImbue
+137,imbue.spectre,lumien.randomthings.Potions.PotionImbue
